@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://TUDOMINIO.com/sitemap.xml
+# sitemap de esta celda (camaras x AMG): solo estas URLs
+Sitemap: https://redtekno.com.mx/sitemap.xml
