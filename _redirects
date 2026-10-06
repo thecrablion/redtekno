@@ -1,0 +1,2 @@
+# Redirige www → sin www (una sola versión canónica para Google)
+https://www.TUDOMINIO.com/* https://TUDOMINIO.com/:splat 301
